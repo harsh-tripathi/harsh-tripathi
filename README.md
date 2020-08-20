@@ -1,5 +1,6 @@
-### Hi there 👋 I am Harsh Tripathi 
-
+### Hi there 👋 I am Harsh Tripathi from IIIT Bhopal
+- 🔭 I’m currently working on App Development using Flutter
+- 🌱 I’m currently learning Python 
 <!--
 **harsh-tripathi/harsh-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
